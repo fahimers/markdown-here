@@ -7,3 +7,10 @@ Thumbs.db
 
 # Build directory
 dist
+
+# Extension stub file
+markdown-here@adam.pritchard
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
